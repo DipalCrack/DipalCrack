@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DipalCrack
 - 👀 I’m interested in program videogames
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C#, C++, Python, HTML5 and Javascript
 - 💞️ I’m looking to collaborate on... For now, i don't want to work in a group
 - 📫 How to reach me...
 
